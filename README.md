@@ -25,8 +25,8 @@ The Arduino Nano and anything else will be powered by a 5 volt power supply.
 - Arduino Nano (any other Arduino)
 - WS2812B LED Strip
 - Jumper Wires
-- Holzplatten
-- Wolle aus einem alten Kissen
+- plywood
+- Wool From A Ppillow
 - Spray Glue
 - Hot Glue
 - Cable Ties
