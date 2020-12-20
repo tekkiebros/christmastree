@@ -8,6 +8,7 @@
     <p>
         Create your own beautiful LED Christmastree
     </p>
+    <img height="300" src="https://github.com/tekkiebros/christmastree/blob/main/images/LED%20Weihnachtsbaum_Beitrag.jpg">
 </div>
 
 ## How it works
@@ -17,6 +18,8 @@ Under the white wool is a WS2812B LED RGB stripe, which makes the whole tree glo
 With the help of a small button, it is possible to switch between 4 modes
 
 The Arduino Nano and anything else will be powered by a 5 volt power supply.
+
+
 
 ## What you need
 - Arduino Nano (any other Arduino)
