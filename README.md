@@ -8,7 +8,7 @@
     <p>
         Create your own beautiful LED Christmastree
     </p>
-    [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+    <a href="https://github.com/tekkiebros/christmastree/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/tekkiebros/christmastree"></a>
 </div>
 
 ## How it works
